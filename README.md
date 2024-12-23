@@ -13,3 +13,6 @@ This is a simple and elegant login page created using **HTML** and **CSS**. The 
 ## Technologies Used
 - **HTML** for structure
 - **CSS** for styling
+
+## Preview
+![Login Page Preview](preview.png)
