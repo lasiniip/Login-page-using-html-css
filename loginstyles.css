@@ -16,7 +16,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('sunset.jpg') no-repeat;
+    background: url('bgimg.avif') no-repeat;
     background-size: cover;
     background-position: center;
 }
